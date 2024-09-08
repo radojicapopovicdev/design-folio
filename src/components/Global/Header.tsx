@@ -7,8 +7,8 @@ const Header = () => {
       className="flex justify-between mt-[2vh] mx-[21.771vw] py-[2vh] items-center bg-[#F0E9D1] rounded-[100px] "
     >
       <img src={Logo} alt="logo" className="ml-10" />
-      <p className=" font-sansation-regular">LOREM</p>
-      <p className="ml-[-12vw] font-sansation-regular">LOREM</p>
+      <p className=" font-sansation-regular cursor-pointer">Projects</p>
+      <p className="ml-[-12vw] font-sansation-regular cursor-pointer">Resume</p>
       <button className="w-[164px] h-[40px]  rounded-[125px] bg-[#FF9776] text-center text-white mr-10 font-sansation-regular  ">
         Contact
       </button>
